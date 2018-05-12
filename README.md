@@ -4,7 +4,7 @@
 
 C'est un jeu tour par tour qui se joue sur une grille qui est variable(de 3 à 9). Le but du jeu est de bloquer son adversaire, pour cela à chaque tour vous devez bloquer une case et vous déplacer.
 
-Pour avoir un aperçu de l'interface graphique vous pouvez aller [ici](http://www.iut-fbleau.fr/sitebp/doc/doc_bib_graphique/index.php)
+Pour avoir un aperçu de l'interface graphique vous pouvez aller [ici](http://dwarves.iut-fbleau.fr/~gaudin/realisations.html)
 
 ## Utiliser l'application
 
@@ -31,7 +31,7 @@ Installation inspirée de [cette page](http://www.iut-fbleau.fr/sitebp/doc/doc_b
 
 ### Lancement
 Compiler les sources avec ```Make ```
-Puis lancer le fichier blocus
+Puis lancez le fichier blocus
 
 ## Auterus
 - Ranto RALIJAONA
