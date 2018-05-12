@@ -22,7 +22,7 @@ Pour que ce jeu compile il faut installer une bibliothèque graphique qui est un
 ./configure --prefix=/usr --disable-exemples
 ```
 
---prefix permet de choisir le repertoire d'installation. --enable/--disable-exemples permet de construire ou non la librairie avec des exemples. (ExempleMandelbrot,ExempleSouris, ExempleGraphique, ExempleSprite). --enable/--disable-xpm permet ou non le support des images de format xpm.
+```--prefix``` permet de choisir le repertoire d'installation. ```--enable/--disable-exemples``` permet de construire ou non la librairie avec des exemples. (ExempleMandelbrot,ExempleSouris, ExempleGraphique, ExempleSprite). ```--enable/--disable-xpm``` permet ou non le support des images de format xpm.
 
 2. Lancez la commande make pour la compilation et make install pour l'installation.
 3. Lancez make uninstall pour la désinstallation.
