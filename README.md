@@ -27,6 +27,8 @@ Pour que ce jeu compile il faut installer une bibliothèque graphique qui est un
 2. Lancez la commande make pour la compilation et make install pour l'installation.
 3. Lancez make uninstall pour la désinstallation.
 
+Installation inspiré de [cette page](http://www.iut-fbleau.fr/sitebp/doc/doc_bib_graphique/index.php)
+
 ### Lancement
 Compiler les sources avec ```Make ```
 Puis lancer le fichier blocus
