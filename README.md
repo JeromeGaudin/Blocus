@@ -33,6 +33,6 @@ Installation inspirée de [cette page](http://www.iut-fbleau.fr/sitebp/doc/doc_b
 Compiler les sources avec ```Make ```
 Puis lancez le fichier blocus
 
-## Auterus
+## Auteurs
 - Ranto RALIJAONA
 - [Jérôme GAUDIN](https://github.com/JeromeGaudin)
